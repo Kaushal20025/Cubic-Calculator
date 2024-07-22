@@ -31,7 +31,7 @@ This project uses an Arduino to interface with a 4x3 keypad and a 16x2 LCD to so
 - Keypad library
 
 ## Circuit Diagram
-
+![Screenshot 2024-07-22 210116](https://github.com/user-attachments/assets/30cf7a80-ba03-4b0f-a881-0877f4d9ef18)
 ### LCD Connections
 
 | LCD Pin | Arduino Pin |
@@ -63,5 +63,6 @@ This project uses an Arduino to interface with a 4x3 keypad and a 16x2 LCD to so
 1. Connect the LCD to the Arduino as per the connection table.
 2. Connect the keypad to the Arduino according to the connection table.
 3. Open the Arduino IDE and install the Keypad library if not already installed.
+
 
 
